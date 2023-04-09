@@ -1,4 +1,4 @@
-Editado/Feio: Pedro Peixoto
+Editado/Feito: Pedro Peixoto
 
 
 
