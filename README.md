@@ -3,7 +3,7 @@
 </h1>
 
 
-## 🧱: Sobre o projeto
+## 🧱 Sobre o projeto
 
 Este é um jogo onde se assimila muito com o Chrome Dino, onde percorremos o mapa para pontuarmos enquanto nos esquivamos de nossos obstaculos
 Nele possuimos:
